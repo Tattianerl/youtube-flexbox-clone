@@ -12,7 +12,10 @@ Ele reproduz o layout principal do YouTube, incluindo **header, sidebar, chips d
   <a href="https://github.com/Tattianerl/youtube-flexbox-clone"><br><br>
     <img src="https://img.shields.io/badge/GitHub-Repo-blue" alt="GitHub repo">
   </a>
-</div><br><br>  
+  <a href="https://tattianerl.github.io/youtube-flexbox-clone/">
+    <img src="https://img.shields.io/badge/Deploy-Online-green" alt="Deploy Online">
+  </a>
+</div><br> 
 
 > ⚠️ Todos os vídeos e conteúdos pertencem aos seus respectivos autores.  
 > Este projeto é apenas para fins educacionais e de portfólio.  
